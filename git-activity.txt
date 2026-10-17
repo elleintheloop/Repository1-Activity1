@@ -1,0 +1,3 @@
+This is my first Git activity.
+
+In this activity, I practiced using Git and GitHub for version control. I learned how to check repository status, stage files, commit changes, push changes to GitHub, and pull updates from the remote repository.
