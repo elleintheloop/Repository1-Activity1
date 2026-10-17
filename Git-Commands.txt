@@ -1,4 +1,4 @@
-Git Basics Activity
+Git Basics Activity 
 
 1. `git status` – Checks the current state of the repository.
 2. `git add git-activity.txt` – Stages the activity file.
